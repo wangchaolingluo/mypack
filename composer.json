@@ -1,0 +1,19 @@
+{
+    "name": "youcan/dsd",
+    "description": "first vendor by wangchao",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangchao",
+            "email": "wangchao@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }    
+}
